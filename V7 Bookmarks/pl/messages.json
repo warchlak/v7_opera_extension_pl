@@ -6,37 +6,37 @@
       "message": "Otwórz prywatnie"
    },
    "RC_B4": {
-      "message": "Cut"
+      "message": "Wytnij"
    },
    "RC_B5": {
-      "message": "Copy"
+      "message": "Kopiuj"
    },
    "RC_B6": {
-      "message": "Edit bookmark"
+      "message": "Edytuj zakładkę"
    },
    "RC_B7": {
-      "message": "Delete bookmark"
+      "message": "Usuń zakładkę"
    },
    "RC_D1": {
-      "message": "Expand all"
+      "message": "Rozwiń wszystkie"
    },
    "RC_D2": {
-      "message": "Collapse all"
+      "message": "Zwiń wszystkie"
    },
    "RC_D3": {
-      "message": "Flat search"
+      "message": "Lista wyników wyszukiwania"
    },
    "RC_D4": {
-      "message": "Tree search"
+      "message": "Drzewo wyników wyszukiwania"
    },
    "RC_EB2": {
-      "message": "Save"
+      "message": "Zapisz"
    },
    "RC_EF1": {
-      "message": "Folder name"
+      "message": "Nazwa folderu"
    },
    "RC_EF3": {
-      "message": "Cancel"
+      "message": "Anuluj"
    },
    "RC_F1": {
       "message": "Zakładka wewnątrz"
@@ -48,55 +48,55 @@
       "message": "Usuń"
    },
    "RC_F2": {
-      "message": "Bookmark after"
+      "message": "Zakładka za tym"
    },
    "RC_F3": {
       "message": "Nowy folder wewnątrz"
    },
    "RC_F4": {
-      "message": "New folder after"
+      "message": "Nowy folder za tym"
    },
    "RC_F5": {
-      "message": "Open from folder"
+      "message": "Otwórz z folderu"
    },
    "RC_M1": {
       "message": "Nowa zakładka"
    },
    "RC_M2": {
-      "message": "New folder"
+      "message": "Nowy folder"
    },
    "RC_M3": {
-      "message": "Open bookmark"
+      "message": "Otwórz zakładkę"
    },
    "RC_M8": {
       "message": "Wklej"
    },
    "RC_P1": {
-      "message": "New bookmark"
+      "message": "Nowa zakładka"
    },
    "RC_R1": {
-      "message": "Undo delete"
+      "message": "Cofnij usunięcie"
    },
    "RC_S1": {
-      "message": "Open selected"
+      "message": "Otwórz wybrane"
    },
    "RC_S6": {
-      "message": "Delete selected"
+      "message": "Usuń wybrane"
    },
    "RC_SP": {
-      "message": "New separator"
+      "message": "Nowy separator"
    },
    "RC_T1": {
       "message": "Opróżnij kosz"
    },
    "bkmColl": {
-      "message": "Bookmarks_collection.html"
+      "message": "Kolekcja_zakladek.html"
    },
    "bo": {
-      "message": "Extension behavior settings"
+      "message": "  Ustawienia działania rozszerzenia"
    },
    "c10": {
-      "message": "Confirm opening 10 and more tabs"
+      "message": "Potwierdź otwarcie 10 lub więcej kart"
    },
    "changelog": {
       "message": "Lista zmian"
@@ -105,7 +105,7 @@
       "message": "Zamknij"
    },
    "closeF": {
-      "message": "Close other folders"
+      "message": "Automatycznie zwijaj inne foldery"
    },
    "closeWin": {
       "message": "close app when opening bookmark"
@@ -114,28 +114,28 @@
       "message": "Credits"
    },
    "ctrlC": {
-      "message": "Open bookmark in new active tab with CTRL + click"
+      "message": "Otwórz zakładki w nowej aktywnej karcie przy CTRL + klik"
    },
    "doAc": {
-      "message": "Open bookmarks with DRAG-OUT in new active tab (default is new background tab)"
+      "message": "Otwórz przeciągnięte zakładki w nowej aktywnej karcie (domyślnie na karcie w tle)"
    },
    "donate": {
-      "message": "Donate"
+      "message": "Wesprzyj"
    },
    "dupe": {
-      "message": "No duplicate bookmarks"
+      "message": "Nie duplikuj zakładek"
    },
    "dupeBkm": {
       "message": " duplicate bookmarks"
    },
    "dupeMove": {
-      "message": "Move it to trash?"
+      "message": "Przenieść do kosza?"
    },
    "ex1": {
       "message": "Export Opera bookmarks tree"
    },
    "ex2": {
-      "message": "Export to HTML"
+      "message": "Eksport do HTML"
    },
    "ex3": {
       "message": "Export Opera bookmarks tree with favicons"
@@ -156,22 +156,22 @@
       "message": "Show folder info with number of children"
    },
    "how_to": {
-      "message": "How to..."
+      "message": "Jak..."
    },
    "kbs2": {
       "message": "Nawigacja klawiaturą"
    },
    "li1": {
-      "message": "Hold CTRL or SHIFT to select bookmark(s) without opening"
+      "message": "Przytrzymaj CTRL lub SHIFT, aby zaznaczać zakładki bez otwierania"
    },
    "li2": {
-      "message": "Only selected bookmarks, not those in selected folders"
+      "message": "Tylko zaznaczone zakładki, nie zakładki z zaznaczonych folderów"
    },
    "li3": {
       "message": "In this case, to add single node to selection use CTRL+SHIFT+click"
    },
    "li4": {
-      "message": "When opening multiple bookmarks, last created will be active"
+      "message": "Przy otwieraniu wielu zakładek, ostatnia utworzona zostanie aktywowana"
    },
    "li5": {
       "message": "This doesn't apply to bookmark middle-click, drag-out or opening from context menu"
@@ -180,16 +180,16 @@
       "message": "This works only in combination with dark theme"
    },
    "li7": {
-      "message": "In this case, Recent Bookmarks will be shown on menu"
+      "message": "W tym przypadku Ostatnie zakładki zostaną wyświetlone w menu"
    },
    "li8": {
-      "message": "Search will trigger only when Enter key is pressed (minimum 2 characters)"
+      "message": "Wyszukiwanie zostanie zainicjowane dopiero po naciśnięciu klawisza Enter (minimumalnie 2 znaki)"
    },
    "mv1": {
       "message": "Przenieś zduplikowane zakładki do kosza"
    },
    "mv2": {
-      "message": "Speed Dial and Trash are not affected by this."
+      "message": "Szybkie wybieranie i Kosz nie Speed Dial and Trash are not affected by this."
    },
    "mv3": {
       "message": "Priorities are: Bookmarks Bar, My Folders, Unsorted, Other."
@@ -201,7 +201,7 @@
       "message": "Duplikaty"
    },
    "mv6": {
-      "message": "Merge duplicate folders"
+      "message": "Połącz zduplikowane foldery"
    },
    "my_addons": {
       "message": "Moje rozszerzenia"
@@ -210,34 +210,34 @@
       "message": "All coding is done in "
    },
    "obsc": {
-      "message": "Open bookmark in current tab with SINGLE CLICK"
+      "message": "Otwórz zakładki w bieżącej karcie przy POJEDYNCZYM KLIKNIĘCIU"
    },
    "op": {
-      "message": "Opera_bookmarks.html"
+      "message": "Opera_zakładki.html"
    },
    "opis": {
-      "message": "Bookmarks manager in your sidebar"
+      "message": "Menedżer zakładek w bocznym panelu"
    },
    "pnink": {
       "message": "All the graphics is made with "
    },
    "pr_10": {
-      "message": "Are you sure you want to open "
+      "message": "Czy na pewno chcesz otworzyć "
    },
    "pr_10_": {
-      "message": " tabs?"
+      "message": " zakładek?"
    },
    "rcC": {
-      "message": "Right click COPY will also copy bookmarks URL's into clipboard"
+      "message": "Kopiowanie pod prawym przyciskiem myszy także kopiuje URL zakładek do schowka"
    },
    "recent": {
-      "message": "Recent bookmarks"
+      "message": "Ostatnie zakładki"
    },
    "reveal": {
       "message": "Reveal in bookmarks"
    },
    "sUrl": {
-      "message": "Show url in tooltip"
+      "message": "Pokaż adres w baloniku"
    },
    "searchEnter": {
       "message": "Search with Enter"
@@ -258,7 +258,7 @@
       "message": "Show Unsorted Bookmarks on top toolbar instead of Recent"
    },
    "sort_m": {
-      "message": "Sort this panel"
+      "message": "Sortuj ten panel"
    },
    "srt_d": {
       "message": "wg Daty"
@@ -270,13 +270,13 @@
       "message": "wg Tytułu"
    },
    "ss": {
-      "message": "Bookmark all tabs"
+      "message": "Wszystkie karty do zakładek"
    },
    "st3": {
-      "message": "Sort inside"
+      "message": "Sortuj wewnątrz"
    },
    "stats1": {
-      "message": "Basic statistic about bookmarks"
+      "message": "Podstawowe statystyki zakładek"
    },
    "stats2": {
       "message": "Statystyki"
@@ -291,19 +291,19 @@
       "message": "Jasny motyw"
    },
    "today": {
-      "message": "Today"
+      "message": "Dzisiaj"
    },
    "translators": {
-      "message": "Translators:"
+      "message": "Tłumacze:"
    },
    "ud": {
-      "message": "Unknown date"
+      "message": "Nieznana data"
    },
    "v7sess": {
-      "message": "Save session in 'V7 Sessions', if existing"
+      "message": "Zapisz sesję w 'V7 Sessions', jeśli istnieje"
    },
    "vo": {
-      "message": "Visual settings"
+      "message": "Ustawienia wizualne"
    },
    "w1": {
       "message": "Roots"
