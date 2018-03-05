@@ -93,7 +93,7 @@
       "message": "Kolekcja_zakladek.html"
    },
    "bo": {
-      "message": "  Ustawienia działania rozszerzenia"
+      "message": "Ustawienia działania rozszerzenia"
    },
    "c10": {
       "message": "Potwierdź otwarcie 10 lub więcej kart"
@@ -108,10 +108,10 @@
       "message": "Automatycznie zwijaj inne foldery"
    },
    "closeWin": {
-      "message": "close app when opening bookmark"
+      "message": "Zamknij panel przy otwieraniu zakładki"
    },
    "credits": {
-      "message": "Credits"
+      "message": "Zasługi"
    },
    "ctrlC": {
       "message": "Otwórz zakładki w nowej aktywnej karcie przy CTRL + klik"
@@ -123,40 +123,40 @@
       "message": "Wesprzyj"
    },
    "dupe": {
-      "message": "Nie duplikuj zakładek"
+      "message": "Brak zduplikowanych zakładek"
    },
    "dupeBkm": {
-      "message": " duplicate bookmarks"
+      "message": " zduplikowanych zakładek"
    },
    "dupeMove": {
       "message": "Przenieść do kosza?"
    },
    "ex1": {
-      "message": "Export Opera bookmarks tree"
+      "message": "Eksportuj drzewo zakładek Opery"
    },
    "ex2": {
-      "message": "Eksport do HTML"
+      "message": "Eksportuj do HTML"
    },
    "ex3": {
-      "message": "Export Opera bookmarks tree with favicons"
+      "message": "Eksportuj drzewo zakładek Opery wraz z ikonami"
    },
    "ex4": {
-      "message": "Export with favicons"
+      "message": "Eksportuj z ikonami"
    },
    "ex5": {
-      "message": "Import bookmarks and settings"
+      "message": "Importuj zakładki i ustawienia"
    },
    "ex6": {
-      "message": "Import"
+      "message": "Importuj"
    },
    "expColl": {
-      "message": "Export collection"
+      "message": "Eksportuj kolekcję"
    },
    "folderChildren": {
-      "message": "Show folder info with number of children"
+      "message": "Pokaż informacje folderu z ilością elementów"
    },
    "how_to": {
-      "message": "Jak..."
+      "message": "Poradnik"
    },
    "kbs2": {
       "message": "Nawigacja klawiaturą"
@@ -168,16 +168,16 @@
       "message": "Tylko zaznaczone zakładki, nie zakładki z zaznaczonych folderów"
    },
    "li3": {
-      "message": "In this case, to add single node to selection use CTRL+SHIFT+click"
+      "message": "W takim przypadku, aby dodać jeden węzeł do wyboru, użyj CTRL+SHIFT+klik"
    },
    "li4": {
       "message": "Przy otwieraniu wielu zakładek, ostatnia utworzona zostanie aktywowana"
    },
    "li5": {
-      "message": "This doesn't apply to bookmark middle-click, drag-out or opening from context menu"
+      "message": "Nie ma to zastosowania dla zakładek otwartych środkowym kliknięciem, przeciągniętych lub otwartch z menu kontekstowego"
    },
    "li6": {
-      "message": "This works only in combination with dark theme"
+      "message": "Działa to tylko w połączeniu z ciemnym motywem"
    },
    "li7": {
       "message": "W tym przypadku Ostatnie zakładki zostaną wyświetlone w menu"
@@ -189,13 +189,13 @@
       "message": "Przenieś zduplikowane zakładki do kosza"
    },
    "mv2": {
-      "message": "Szybkie wybieranie i Kosz nie Speed Dial and Trash are not affected by this."
+      "message": "Nie dotyczy to Szybkiego wybierania i Kosza"
    },
    "mv3": {
-      "message": "Priorities are: Bookmarks Bar, My Folders, Unsorted, Other."
+      "message": "Priorytety to kolejno: Pasek zakładek, Moje foldery, Nieuporządkowane, Inne."
    },
    "mv4": {
-      "message": "If duplicate bookmark is in Bookmarks Bar and Unsorted, it will be removed from Unsorted."
+      "message": "Jeśli zduplikowana zakładka znajduje się na Pasku zakładek i w Nieuporządkowanych, zostanie usunięta z Nieuporządkowanych."
    },
    "mv5": {
       "message": "Duplikaty"
@@ -204,10 +204,10 @@
       "message": "Połącz zduplikowane foldery"
    },
    "my_addons": {
-      "message": "Moje rozszerzenia"
+      "message": "Więcej"
    },
    "npp": {
-      "message": "All coding is done in "
+      "message": "Całe kodowanie jest wykonane w "
    },
    "obsc": {
       "message": "Otwórz zakładki w bieżącej karcie przy POJEDYNCZYM KLIKNIĘCIU"
@@ -219,7 +219,7 @@
       "message": "Menedżer zakładek w bocznym panelu"
    },
    "pnink": {
-      "message": "All the graphics is made with "
+      "message": "Wszystkie grafiki są wykonane w "
    },
    "pr_10": {
       "message": "Czy na pewno chcesz otworzyć "
@@ -234,28 +234,28 @@
       "message": "Ostatnie zakładki"
    },
    "reveal": {
-      "message": "Reveal in bookmarks"
+      "message": "Odsłoń w zakładkach"
    },
    "sUrl": {
       "message": "Pokaż adres w baloniku"
    },
    "searchEnter": {
-      "message": "Search with Enter"
+      "message": "Szukaj po Enterze"
    },
    "set_sp1": {
-      "message": "Separators thickness"
+      "message": "Szerokość separatora"
    },
    "set_sp2": {
-      "message": "Separators spacing (above and under)"
+      "message": "Odstępy separatora (powyżej i poniżej)"
    },
    "set_sp3": {
-      "message": "Separators color (click to change)"
+      "message": "Kolor separatorów (kliknij, aby zmienić)"
    },
    "settings": {
       "message": "Ustawienia"
    },
    "showUns": {
-      "message": "Show Unsorted Bookmarks on top toolbar instead of Recent"
+      "message": "Pokaż Nieuporządkowane zakładki na górnym panelu zamiast Ostatnich zakładek"
    },
    "sort_m": {
       "message": "Sortuj ten panel"
@@ -285,7 +285,7 @@
       "message": "Ciemny motyw"
    },
    "theme2": {
-      "message": "Apply dark theme to panel and other elements too "
+      "message": "Zastosuj ciemny motyw do panela, a także do innych elementów"
    },
    "theme_": {
       "message": "Jasny motyw"
@@ -306,15 +306,15 @@
       "message": "Ustawienia wizualne"
    },
    "w1": {
-      "message": "Roots"
+      "message": "Źródło"
    },
    "w2": {
-      "message": "bookmarks"
+      "message": "zakładek"
    },
    "w3": {
-      "message": "folders"
+      "message": "folderów"
    },
    "zoom": {
-      "message": "Zoom"
+      "message": "Skala"
    }
 }
