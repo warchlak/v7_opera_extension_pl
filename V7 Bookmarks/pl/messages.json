@@ -120,7 +120,7 @@
       "message": "Otwórz przeciągnięte zakładki w nowej aktywnej karcie (domyślnie na karcie w tle)"
    },
    "donate": {
-      "message": "Wesprzyj"
+      "message": "Wsparcie"
    },
    "dupe": {
       "message": "Brak zduplikowanych zakładek"
@@ -204,7 +204,7 @@
       "message": "Połącz zduplikowane foldery"
    },
    "my_addons": {
-      "message": "Więcej"
+      "message": "Więcej ode mnie"
    },
    "npp": {
       "message": "Całe kodowanie jest wykonane w "
